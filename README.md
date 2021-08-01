@@ -1,5 +1,7 @@
 # Made with :heart: location in :id:
 
+[![CodeFactor](https://www.codefactor.io/repository/github/kirimkabar/website-development/badge?s=e20d73fb801e113f765f90b88480e8a95c6e81b2)](https://www.codefactor.io/repository/github/kirimkabar/website-development)
+
 > **Do not clone** this repository, because it's for KirimKabar purpose.
 
 ### KirimKabar Founder :
