@@ -1,6 +1,6 @@
 # Made with :heart: location in :id:
 
-[![CodeFactor](https://www.codefactor.io/repository/github/kirimkabar/website-development/badge?s=e20d73fb801e113f765f90b88480e8a95c6e81b2)](https://www.codefactor.io/repository/github/kirimkabar/website-development)
+[![CodeFactor](https://www.codefactor.io/repository/github/kirimkabar/kirimkabar.com/badge?s=93ab4265c5858acda5bcc8c082e357369766993f)](https://www.codefactor.io/repository/github/kirimkabar/kirimkabar.com)
 
 > **Do not clone** this repository, because it's for KirimKabar purpose.
 
